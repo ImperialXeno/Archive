@@ -4,5 +4,36 @@
   "artist": "Etuzan Jakusai",
   "author": "Hayo-Cinema",
   "cover": "https://files.catbox.moe/ym6nzq.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "oneshot",
+      "volume": "",
+      "last_updated": "1745249195",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/ym6nzq.png",
+          "https://files.catbox.moe/e3d712.png",
+          "https://files.catbox.moe/0rkchz.png",
+          "https://files.catbox.moe/s6g8nu.png",
+          "https://files.catbox.moe/co2ijo.png",
+          "https://files.catbox.moe/v4tbx3.png",
+          "https://files.catbox.moe/fnv1kj.png",
+          "https://files.catbox.moe/iuuzsg.png",
+          "https://files.catbox.moe/0q2qrx.png",
+          "https://files.catbox.moe/ufqmkn.png",
+          "https://files.catbox.moe/336jnc.png",
+          "https://files.catbox.moe/v8gq8b.png",
+          "https://files.catbox.moe/efbokh.png",
+          "https://files.catbox.moe/he9vv2.png",
+          "https://files.catbox.moe/eqicpu.png",
+          "https://files.catbox.moe/6dhmq5.png",
+          "https://files.catbox.moe/dtejf4.png",
+          "https://files.catbox.moe/knypzb.png",
+          "https://files.catbox.moe/xvttvp.png",
+          "https://files.catbox.moe/hb2dom.png",
+          "https://files.catbox.moe/2d0x8l.png"
+        ]
+      }
+    }
+  }
 }
