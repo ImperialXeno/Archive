@@ -1,0 +1,31 @@
+{
+  "title": "testing",
+  "description": "dd\nAlbum URL: https://catbox.moe/c/8ly1mi",
+  "author": "ro",
+  "artist": "ro",
+  "cover": "https://files.catbox.moe/pr59mv.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "",
+      "last_updated": "1745382350",
+      "groups": {
+        "gp": [
+          "https://files.catbox.moe/pr59mv.jpg",
+          "https://files.catbox.moe/xmfxt6.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1745382350",
+      "groups": {
+        "gp": [
+          "https://files.catbox.moe/spzcva.jpg",
+          "https://files.catbox.moe/rt4gr2.jpg"
+        ]
+      }
+    }
+  }
+}
