@@ -5,8 +5,8 @@
   "artist": "Spice",
   "cover": "https://images.weserv.nl/?url=https%3A%2F%2Ffiles.catbox.moe%2F702jqc.jpg&output=webp&q=95",
   "chapters": {
-    "1": {
-      "title": "Short-Tempered Mom",
+    "0": {
+      "title": "Chapter",
       "volume": "",
       "last_updated": "1745405254",
       "groups": {
@@ -42,16 +42,7 @@
           "https://files.catbox.moe/x9aug7.jpg",
           "https://files.catbox.moe/uirj6e.jpg",
           "https://files.catbox.moe/uyy73i.jpg",
-          "https://files.catbox.moe/up476q.jpg"
-        ]
-      }
-    },
-    "2": {
-      "title": "Indulgent Mom",
-      "volume": "",
-      "last_updated": "1745405254",
-      "groups": {
-        "Amoskandy": [
+          "https://files.catbox.moe/up476q.jpg",
           "https://files.catbox.moe/t4nenm.jpg",
           "https://files.catbox.moe/76as4f.jpg",
           "https://files.catbox.moe/kvm4do.jpg",
@@ -69,40 +60,7 @@
           "https://files.catbox.moe/r1zqz3.jpg",
           "https://files.catbox.moe/243qw9.jpg",
           "https://files.catbox.moe/0zsqyx.jpg",
-          "https://files.catbox.moe/5gs83p.jpg"
-        ]
-      }
-    },
-    "4": {
-      "title": "Pampered Mom",
-      "volume": "",
-      "last_updated": "1745405254",
-      "groups": {
-        "Amoskandy": [
-          "https://files.catbox.moe/ocb1a6.jpg",
-          "https://files.catbox.moe/x2rsoe.jpg",
-          "https://files.catbox.moe/zp1omw.jpg",
-          "https://files.catbox.moe/rc5rgu.jpg",
-          "https://files.catbox.moe/0scc7v.jpg",
-          "https://files.catbox.moe/0oq9ji.jpg",
-          "https://files.catbox.moe/e5hiny.jpg",
-          "https://files.catbox.moe/qrogjq.jpg",
-          "https://files.catbox.moe/am3q3h.jpg",
-          "https://files.catbox.moe/rlymfq.jpg",
-          "https://files.catbox.moe/ygxoju.jpg",
-          "https://files.catbox.moe/t7inyk.jpg",
-          "https://files.catbox.moe/qzsm2f.jpg",
-          "https://files.catbox.moe/a9rh73.jpg",
-          "https://files.catbox.moe/3580b1.jpg"
-        ]
-      }
-    },
-    "3": {
-      "title": "Son's Woman",
-      "volume": "",
-      "last_updated": "1745405254",
-      "groups": {
-        "Amoskandy": [
+          "https://files.catbox.moe/5gs83p.jpg",
           "https://files.catbox.moe/asd5j6.jpg",
           "https://files.catbox.moe/0s5rgi.jpg",
           "https://files.catbox.moe/bjsqz5.jpg",
@@ -124,7 +82,22 @@
           "https://files.catbox.moe/pcn24u.jpg",
           "https://files.catbox.moe/1k3zbf.jpg",
           "https://files.catbox.moe/5ocbpy.jpg",
-          "https://files.catbox.moe/2w5anj.jpg"
+          "https://files.catbox.moe/2w5anj.jpg",
+          "https://files.catbox.moe/ocb1a6.jpg",
+          "https://files.catbox.moe/x2rsoe.jpg",
+          "https://files.catbox.moe/zp1omw.jpg",
+          "https://files.catbox.moe/rc5rgu.jpg",
+          "https://files.catbox.moe/0scc7v.jpg",
+          "https://files.catbox.moe/0oq9ji.jpg",
+          "https://files.catbox.moe/e5hiny.jpg",
+          "https://files.catbox.moe/qrogjq.jpg",
+          "https://files.catbox.moe/am3q3h.jpg",
+          "https://files.catbox.moe/rlymfq.jpg",
+          "https://files.catbox.moe/ygxoju.jpg",
+          "https://files.catbox.moe/t7inyk.jpg",
+          "https://files.catbox.moe/qzsm2f.jpg",
+          "https://files.catbox.moe/a9rh73.jpg",
+          "https://files.catbox.moe/3580b1.jpg"
         ]
       }
     }
