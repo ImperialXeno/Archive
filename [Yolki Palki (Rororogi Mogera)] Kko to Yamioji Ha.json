@@ -5,7 +5,7 @@
   "artist": "Rororogi Mogera",
   "cover": "https://images.weserv.nl/?url=https%3A%2F%2Ffiles.catbox.moe%2F3pgyyu.jpg&output=webp&q=90",
   "chapters": {
-    "1": {
+    "0": {
       "title": "Chapter",
       "volume": "",
       "last_updated": "1745583517",
@@ -98,7 +98,7 @@
         ]
       }
     },
-    "2": {
+    "0": {
       "title": "Colorized & Deccensored",
       "volume": "",
       "last_updated": "1745583517",
